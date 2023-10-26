@@ -1,16 +1,48 @@
-### Hi there 👋
+# 👋🏾 Olá! Sou a Rayssa, uma desenvolvedora Front-end 😊
+<div style="inline-block">
+<a href = "mailto:contato@rayssasouzaunb"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rayssa-de-souza" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-<!--
-**rayssa-souza/rayssa-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏾‍♀️ Sobre mim
+  - Já atuei na área de CX em empresas de tecnologia durante 3 anos.
+  O que me fez adorar e decidir migrar para Tecnologia foi a minha atuação com estratégias da jornada/experiência de clientes em empresas e em um banco digital, tive a oportunidade de ter vivências e trocas com as squads para solucionar problemas e melhorar a experiência do usuário que impactava o atendimento e as métricas de CX.
+ - Eu também sou uma guria brasiliense que mora em Porto Alegre-RS.
+ - Sou fã de bons animes, adoro cozinhar e fazer artesanatos, agora estou praticando tricô. 🧶
 
-Here are some ideas to get you started:
+   
+##  👩🏾‍💻 🛠️ Minha Stack:
+<div style="inline-block">
+  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40" />
+  
+  <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />
+  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+          
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+   
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👩🏾‍💻🌱 Estou aprendendo:
+<div style="inline-block">
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+              
+</div>
+
+
+
+          
+          
+  
+
+  
+
+
