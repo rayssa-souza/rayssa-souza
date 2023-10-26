@@ -5,6 +5,8 @@
 </div>
 
 ## 🙋🏾‍♀️ Sobre mim
+  - Estou cursando Bacharelado em Ciências da Computação.
+  - Fui da primeira turma do treinamento em Desenvolvimento web em JavaScript da Warren Tech Academy 2022.
   - Já atuei na área de CX em empresas de tecnologia durante 3 anos.
   O que me fez adorar e decidir migrar para Tecnologia foi a minha atuação com estratégias da jornada/experiência de clientes em empresas e em um banco digital, tive a oportunidade de ter vivências e trocas com as squads para solucionar problemas e melhorar a experiência do usuário que impactava o atendimento e as métricas de CX.
  - Eu também sou uma guria brasiliense que mora em Porto Alegre-RS.
