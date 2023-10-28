@@ -16,7 +16,7 @@
 - I was part of the first class of the Warren Tech Academy's 2022 web development training program.
 - I have three years of experience in the CX field within technology companies.
 - What made me fall in love with and decide to transition into the field of Technology was my involvement in customer journey and experience strategies within tech companies and a digital bank. I had the opportunity to collaborate with various squads to solve problems and enhance the user experience on platforms, which had a significant impact on customer service and CX metrics.
-- I'm also a girl from Brasília who now lives in Porto Alegre, RS.
+- I'm also a girl from Brasília based in Porto Alegre, RS.
 - I'm a fan of good anime, love to cook, and enjoy doing crafts; currently, I'm practicing knitting.
 
    
