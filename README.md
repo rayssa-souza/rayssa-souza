@@ -5,7 +5,7 @@
 </div>
 
 ## 🙋🏾‍♀️ Sobre mim:
-  - Venho desenvolvendo projetos pessoais há 1 ano e meio com Javascript, React.JS, Typescript, Sass e Node.js. Práticas com integrações utilizando API REST, arquitetura MVC, Express.js além da utilização do banco de dados MySQL, executado com Docker.Baseado em práticas de UX e UI e no princípio mobile-first, desenvolvo plataformas 100% responsivas.
+  - Venho desenvolvendo projetos pessoais há 1 ano e meio com Javascript, React.JS, Typescript, Sass e Node.js. Práticas com integrações utilizando API REST, arquitetura MVC, Express.js além da utilização do banco de dados MySQL, executado com Docker. Baseado em práticas de UX e UI e no princípio mobile-first, desenvolvo plataformas 100% responsivas.
   - Estou cursando Bacharelado em Ciências da Computação.
   - Fui da primeira turma do treinamento em Desenvolvimento web em JavaScript da Warren Tech Academy 2022.
   - Já atuei na área de CX em empresas de tecnologia durante 3 anos.
