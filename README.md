@@ -48,14 +48,6 @@
 </div>
 
 
-## 👩🏾‍💻🌱 Estou aprendendo:
-<div style="inline-block">
-
-  
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-              
-</div>
-
 
 
           
