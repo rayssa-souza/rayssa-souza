@@ -6,6 +6,7 @@
 
 ## 🙋🏾‍♀️ Sobre mim:
   - Sou desenvolvedora full-stack na [Papayas](https://www.linkedin.com/company/papayasbeneficio/), trabalho no back-end com Node.js, Express.js, Typescript e MongoDB/Mongoose, no front-end com React.js.
+    
   - Venho estudando e desenvolvendo projetos há quase 2 anos com Javascript, CSS, bibliotecas de estilização, React.JS e Context API, Typescript, Design Responsivo, Node.js, Express.js e integração com banco de dados.
   - Tenho conhecimento em: padrão de projetos MVC, integração com MongoDB e MySQL, ORMs, além de práticas de UX e UI e o princípio mobile-first.
   - Estou cursando 2° Semestre de Ciências da Computação.
@@ -13,7 +14,7 @@
   - Já atuei na área de CX em empresas de tecnologia durante 3 anos.
   - O que me aproximou de Tecnologia foi a minha atuação com estratégias da jornada/experiência de clientes em empresas tech, pois tive a oportunidade de trabalhar em colaboração com times tech e de produto para solucionar problemas e melhorar a experiência dos usuários nas plataformas.
   - Eu também sou uma guria brasiliense que mora em Porto Alegre-RS.
-  - Sou fã de bons animes, adoro cozinhar e fazer artesanatos, agora estou praticando tricô. 🧶
+  - Sou fã de bons animes e adoro cozinhar.
    
 ##  👩🏾‍💻 🛠️ Minha Stack:
 <div style="inline-block">
