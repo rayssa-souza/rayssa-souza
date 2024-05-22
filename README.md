@@ -5,13 +5,15 @@
 </div>
 
 ## 🙋🏾‍♀️ Sobre mim:
-  - Venho desenvolvendo projetos pessoais há mais de 1 ano com Javascript, React.JS, Typescript, bibliotecas de estilização e Node.js. Práticas com integrações utilizando API REST, arquitetura MVC, Express.js além da utilização do banco de dados MySQL, executado com Docker, e MongoDB. Baseado em práticas de UX e UI e no princípio mobile-first, desenvolvo plataformas 100% responsivas.
-  - Estou cursando Bacharelado em Ciências da Computação.
+  - Sou desenvolvedora full-stack na [Papayas](https://www.linkedin.com/company/papayasbeneficio/), trabalho no back-end com Node.js, Express.js, Typescript e MongoDB/Mongoose, no front-end com React.js.
+  - Venho estudando e desenvolvendo projetos há quase 2 anos com Javascript, CSS, bibliotecas de estilização, React.JS e Context API, Typescript, Design Responsivo, Node.js, Express.js e integração com banco de dados.
+  - Tenho conhecimento em: padrão de projetos MVC, integração com MongoDB e MySQL, ORMs, além de práticas de UX e UI e o princípio mobile-first.
+  - Estou cursando 2° Semestre de Ciências da Computação.
   - Fui da primeira turma do treinamento em Desenvolvimento web em JavaScript da Warren Tech Academy 2022.
   - Já atuei na área de CX em empresas de tecnologia durante 3 anos.
-  - O que me fez adorar e decidir migrar para Tecnologia foi a minha atuação com estratégias da jornada/experiência de clientes em empresas tech e em um banco digital, pois tive a oportunidade de ter vivências e trocas com várias squads para solucionar problemas e melhorar a experiência do usuário nas plataformas.
- - Eu também sou uma guria brasiliense que mora em Porto Alegre-RS.
- - Sou fã de bons animes, adoro cozinhar e fazer artesanatos, agora estou praticando tricô. 🧶
+  - O que me aproximou de Tecnologia foi a minha atuação com estratégias da jornada/experiência de clientes em empresas tech, pois tive a oportunidade de trabalhar em colaboração com times tech e de produto para solucionar problemas e melhorar a experiência dos usuários nas plataformas.
+  - Eu também sou uma guria brasiliense que mora em Porto Alegre-RS.
+  - Sou fã de bons animes, adoro cozinhar e fazer artesanatos, agora estou praticando tricô. 🧶
    
 ##  👩🏾‍💻 🛠️ Minha Stack:
 <div style="inline-block">
