@@ -9,7 +9,7 @@
     
   - Venho estudando e desenvolvendo projetos há quase 2 anos com Javascript, CSS, bibliotecas de estilização, React.JS e Context API, Typescript, Design Responsivo, Node.js, Express.js e integração com banco de dados.
   - Tenho conhecimento em: padrão de projetos MVC, integração com MongoDB e MySQL, ORMs, execução de projetos com Docker, além de práticas de UX, UI e o princípio mobile-first.
-  - Estou cursando 2° Semestre de Ciências da Computação.
+  - Estou cursando 3° Semestre de Ciências da Computação.
   - Fui da primeira turma do treinamento em Desenvolvimento web em JavaScript da Warren Tech Academy 2022.
   - Já atuei na área de CX em empresas de tecnologia durante 3 anos.
   - O que me aproximou de Tecnologia foi a minha atuação com estratégias da jornada/experiência de clientes em empresas tech, pois tive a oportunidade de trabalhar em colaboração com times tech e de produto para solucionar problemas e melhorar a experiência dos usuários nas plataformas.
